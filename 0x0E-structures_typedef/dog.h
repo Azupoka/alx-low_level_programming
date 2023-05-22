@@ -1,6 +1,6 @@
 #ifndef DOG_H
 #define DOG_H
-/**
+i/**
  * struct dog - user defined data type
  * @name: name of the dog
  * @age: age of the dog
